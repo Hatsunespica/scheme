@@ -1,0 +1,2 @@
+This repo is used for materials related to scheme.
+Current plan is for learning SICP and other things. 
